@@ -1,4 +1,17 @@
 Faculdade Uniesp
 Curso: Ciências da Computação
-Adryano de Oliveira Cavalcanti Filho
-Tópicos Essenciais para Programação
+
+Questâo 01:
+- São os arquivos ja postados aqui no GitHub.
+
+Questão 02:
+- Vá no botão "Code" no seu repositorio desejado do GitHub e copie seu link, depois vá em uma pasta e aperte o botão direito para acessar o git bash e dentro dele cole o seguinte comando = git clone https://github.com/AdryanoFilho/disciplinauniesp.git
+
+Questão 03: 
+- cd Documents/Repositorios/disciplinauniesp/
+
+Questâo 04:
+- help
+
+Questão 05:
+- 
