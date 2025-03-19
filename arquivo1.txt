@@ -23,4 +23,10 @@ Questão 07:
 - git clone https://github.com/h5bp/html5-boilerplate.git
 
 Questão 08:
-- 
+- Arquivo readme atualizado.
+
+Questão 09:
+- Entre em algum arquivo do repositorio, clique nos tres pontos e clique em copy permalink
+
+Questâo 10:
+- Finalizado.
