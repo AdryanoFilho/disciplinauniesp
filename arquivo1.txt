@@ -14,4 +14,13 @@ Questâo 04:
 - help
 
 Questão 05:
+- Arquivo alterado.
+
+Questão 06:
+- Arquivo verificado.
+
+Questão 07:
+- git clone https://github.com/h5bp/html5-boilerplate.git
+
+Questão 08:
 - 
